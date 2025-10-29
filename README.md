@@ -1,5 +1,5 @@
 <!-- ================= HEADER IMAGE ================= -->
-![Intro Banner](./Rooted%20root/my-react-app/src/components/images/intro.png)
+![Intro Banner](./ReadMeAssets/intro.png)
 
 ##  Rooted – Plant Info & Chart Visualization App
 
@@ -68,7 +68,7 @@ Go to http://localhost:3000
 ```
 
 
-![Intro Banner](./Rooted%20root/my-react-app/src/components/images/moc.png)
+![Intro Banner](./ReadMeAssets/moc.png)
 ###  Key Features
 - Fetches plant information dynamically from a **Plant API**  
 - Displays interactive charts using **Chart.js**  
@@ -77,7 +77,8 @@ Go to http://localhost:3000
 
 ---
 
-# The Process
+
+![Intro Banner](./ReadMeAssets/process.png)
 This section documents the creative and technical decisions behind **Rooted**. It includes the architecture, design decisions, challenges, and testing approaches.
 
 ---
