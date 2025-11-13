@@ -18,6 +18,14 @@ Rooted is a data-driven web application that allows users to explore plant infor
 
 ---
 
+### 🌿 About the Plant API
+
+Rooted integrates with the **Perenual Plant API**, a comprehensive plant database that provides detailed information about thousands of plant species worldwide. The API offers rich data including plant characteristics, care requirements, growth patterns, sunlight needs, watering schedules, and high-quality images. This reliable data source enables our application to deliver accurate, real-time plant information for educational and comparison purposes, making it an ideal foundation for data visualization and interactive plant exploration.
+
+**API Documentation**: [https://perenual.com/docs/api](https://perenual.com/docs/api)
+
+---
+
 ###  Getting Started
 
 Follow these instructions to **run Rooted locally**.
@@ -125,6 +133,11 @@ The app focuses on **clarity and interactivity**:
 - Include **more plant metrics** from additional APIs  
 - Implement **user accounts** to save favorite plants  
 - Enhance **UI/UX** with animations and interactive tooltips  
+
+---
+
+##  Solution and Final Thoughts
+Rooted demonstrates how modern web technologies can turn complex plant data into an engaging, educational platform. By integrating the Perenual Plant API with Chart.js, users can easily compare plant characteristics, understand care requirements, and explore botanical diversity in a user-friendly, interactive format. The responsive, component-based React design ensures a smooth experience across devices while keeping the code maintainable and scalable.
 
 ---
 
